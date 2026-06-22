@@ -1,8 +1,8 @@
 # Hi, I'm Arshaan Sindhwani
 
-Scientist turned Software Engineer with experience building full-stack applications, mobile apps, cloud-native solutions, and CI/CD pipelines.
+Scientist turned Software Engineer with experience building full-stack applications, mobile applications, cloud-based solutions, and CI/CD pipelines.
 
-I recently completed the La Fosse Academy Software Engineering programme, where I developed projects across full-stack development, cloud engineering, DevOps, data pipelines, and mobile application development.
+I trained through the La Fosse Academy Technology Training programme, where I developed projects across software engineering, cloud infrastructure, DevOps, data pipelines, and mobile application development.
 
 I'm particularly interested in:
 
@@ -12,8 +12,6 @@ I'm particularly interested in:
 - Data Engineering
 - Backend Development
 
----
-
 ## Tech Stack
 
 ### Languages
@@ -21,20 +19,25 @@ I'm particularly interested in:
 - JavaScript
 - Python
 - SQL
+- R
 - HTML
 - CSS
 
-### Backend
+### Application Development
 
 - Node.js
 - Express
+- React Native
+- Expo
+- Expo Router
 - REST APIs
 - JWT Authentication
 
-### Databases
+### Databases & Backend Services
 
 - PostgreSQL
 - Firebase Firestore
+- Supabase
 
 ### Cloud & DevOps
 
@@ -42,51 +45,46 @@ I'm particularly interested in:
 - Docker
 - Terraform
 - GitHub Actions
-- CI/CD Pipelines
+- CI/CD
+- Render
 
-### Frontend & Mobile
+### Data & Analytics
 
-- React Native
-- Expo
-- Firebase
-- OpenStreetMap
+- Power BI
+- Excel
+- pandas
+- NumPy
 
-### Testing
+### Testing & Tools
 
 - Jest
 - Supertest
-
-### Tools
-
+- Postman
 - Git
 - GitHub
-- Postman
 - VS Code
-
----
 
 ## Featured Projects
 
 ### AgroSense
 
-Offline-first mobile application designed for UK small farms.
+AI-powered mobile agriculture platform designed to help small farms make data-driven decisions through field observations, weather insights, and intelligent recommendations.
 
 #### Technologies
 
-React Native • Expo • Firebase • Firestore • OpenStreetMap • Gemini AI
+React Native • Expo • Firebase • Firestore • OpenStreetMap • Gemini AI • AsyncStorage
 
 #### Features
 
-- Offline-first synchronisation
+- Offline-compatible observation recording
+- Automatic synchronisation when connectivity returns
 - AI-powered farming recommendations
 - Weather integration
 - OpenStreetMap field visualisation
-- Theme customisation
-- Observation history tracking
+- Observation and recommendation history
+- Firebase Authentication
 
 🔗 Repository: https://github.com/ArshaanSindhwani/AgroSense
-
----
 
 ### EduFun
 
@@ -107,11 +105,9 @@ Node.js • Express • PostgreSQL • JavaScript • Jest • Supertest
 
 🔗 Repository: https://github.com/ArshaanSindhwani/EduFun
 
----
-
 ### MovieApp
 
-Full-stack movie tracking platform with AI-powered recommendations.
+Full-stack movie tracking platform that allows users to manage watched films, ratings, and reviews while integrating external movie data and AI-powered recommendations.
 
 #### Technologies
 
@@ -122,17 +118,15 @@ Node.js • Express • PostgreSQL • TMDB API • Python • Flask • Docker
 - User authentication
 - Movie tracking and ratings
 - TMDB integration
-- AI recommendations
+- AI-powered recommendations
 - Multi-language support
 - Dockerised architecture
 
 🔗 Repository: https://github.com/ArshaanSindhwani/MovieApp
 
----
-
 ### Weather DataOps Pipeline
 
-Automated weather data pipeline demonstrating DevOps and CI/CD principles.
+Automated weather data pipeline demonstrating DevOps, CI/CD, and data engineering principles.
 
 #### Technologies
 
@@ -147,7 +141,7 @@ Node.js • Docker • GitHub Actions • Render • OpenWeather API
 - Data visualisation dashboard
 - Scheduled GitHub Actions workflows
 
----
+🔗 Repository: https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline
 
 ## What I'm Currently Learning
 
@@ -158,25 +152,19 @@ Node.js • Docker • GitHub Actions • Render • OpenWeather API
 - Platform Engineering Concepts
 - Data Engineering Fundamentals
 
----
-
 ## Professional Background
 
-Before transitioning into software engineering, I worked within scientific and healthcare environments, including laboratory and consultancy roles. This background developed my analytical thinking, problem-solving abilities, stakeholder communication, and attention to detail, which I now apply to software development and cloud technologies.
+Before transitioning into software engineering, I worked within scientific, healthcare, IT, and consultancy environments. This background developed my analytical thinking, problem-solving abilities, stakeholder communication, leadership skills, and experience working within regulated environments involving GDPR, data integrity, quality management systems, and ISO standards.
 
----
+These experiences continue to influence how I approach software development, cloud technologies, and data-driven problem solving.
 
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshaanSindhwani&show_icons=true)
 
----
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/arshaan-sindhwani
 - GitHub: https://github.com/ArshaanSindhwani
-
----
 
 Thanks for visiting my profile!
