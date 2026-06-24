@@ -1,80 +1,71 @@
 # Hi, I'm Arshaan Sindhwani
 
-Scientist turned Software Engineer with experience building full-stack applications, mobile applications, cloud-based solutions, and CI/CD pipelines.
+## Software Engineer | Cloud, DevOps & Data Enthusiast
 
-I trained through the La Fosse Academy Technology Training programme, where I developed projects across software engineering, cloud infrastructure, DevOps, data pipelines, and mobile application development.
+Scientist turned Software Engineer passionate about building scalable applications, cloud-based solutions, data pipelines, and automation.
 
-I'm particularly interested in:
+I trained through the La Fosse Academy Technology Training Programme, where I developed projects across software engineering, cloud infrastructure, DevOps, data pipelines, and mobile application development.
 
-- Cloud Engineering
-- DevOps
-- Platform Engineering
-- Data Engineering
-- Backend Development
+I'm particularly interested in building scalable software systems and developing expertise across Cloud Engineering, DevOps, Platform Engineering, Data Engineering, and Backend Development.
 
-## Tech Stack
+---
 
-### Languages
+## Core Competencies
 
-- JavaScript
-- Python
-- SQL
-- R
-- HTML
-- CSS
+- Full-Stack Development
+- Mobile Application Development
+- REST API Design
+- Cloud Fundamentals
+- Infrastructure as Code
+- CI/CD Automation
+- Database Design
+- Data Pipelines
+- Automated Testing
+- AI Integration
 
-### Application Development
+---
 
-- Node.js
-- Express
-- React Native
-- Expo
-- Expo Router
-- REST APIs
-- JWT Authentication
+# Technical Skills
 
-### Databases & Backend Services
+## Languages
 
-- PostgreSQL
-- Firebase Firestore
-- Supabase
+JavaScript • SQL • Python • R • HTML • CSS
 
-### Cloud & DevOps
+## Application Development
 
-- AWS
-- Docker
-- Terraform
-- GitHub Actions
-- CI/CD
-- Render
+Node.js • Express • React Native • Expo • Expo Router • REST APIs • JWT Authentication
 
-### Data & Analytics
+## Databases & Backend Services
 
-- Power BI
-- Excel
-- pandas
-- NumPy
+PostgreSQL • Firebase Firestore • Supabase
 
-### Testing & Tools
+## Cloud & DevOps
 
-- Jest
-- Supertest
-- Postman
-- Git
-- GitHub
-- VS Code
+AWS • Docker • Terraform • GitHub Actions • CI/CD • Render
 
-## Featured Projects
+## Data & Analytics
 
-### AgroSense
+Power BI • Excel • Data Visualisation • pandas • NumPy
 
-AI-powered mobile agriculture platform designed to help small farms make data-driven decisions through field observations, weather insights, and intelligent recommendations.
+## Testing & Tools
+
+Jest • Supertest • Postman • Git • GitHub • VS Code
+
+---
+
+# Featured Projects
+
+## AgroSense
+
+### AI-Powered Mobile Agriculture Platform
+
+AI-powered mobile agriculture platform that combines offline-first data collection, weather intelligence, mapping, and machine-generated recommendations to support decision-making for small farms.
 
 #### Technologies
 
 React Native • Expo • Firebase • Firestore • OpenStreetMap • Gemini AI • AsyncStorage
 
-#### Features
+#### Key Features
 
 - Offline-compatible observation recording
 - Automatic synchronisation when connectivity returns
@@ -84,17 +75,22 @@ React Native • Expo • Firebase • Firestore • OpenStreetMap • Gemini AI
 - Observation and recommendation history
 - Firebase Authentication
 
-🔗 Repository: https://github.com/ArshaanSindhwani/AgroSense
+**Repository:**  
+https://github.com/ArshaanSindhwani/AgroSense
 
-### EduFun
+---
 
-Educational gaming platform designed to improve student engagement through interactive learning.
+## EduFun
+
+### Educational Gaming Platform
+
+Educational gaming platform designed to improve student engagement through interactive quizzes, progress tracking, and gamified learning experiences.
 
 #### Technologies
 
 Node.js • Express • PostgreSQL • JavaScript • Jest • Supertest
 
-#### Features
+#### Key Features
 
 - User authentication
 - Educational quiz challenges
@@ -103,28 +99,38 @@ Node.js • Express • PostgreSQL • JavaScript • Jest • Supertest
 - REST API architecture
 - Automated testing
 
-🔗 Repository: https://github.com/ArshaanSindhwani/EduFun
+**Repository:**  
+https://github.com/ArshaanSindhwani/EduFun
 
-### MovieApp
+---
 
-Full-stack movie tracking platform that allows users to manage watched films, ratings, and reviews while integrating external movie data and AI-powered recommendations.
+## MovieApp
+
+### Full-Stack Movie Tracking Platform
+
+Full-stack movie tracking platform that allows users to manage watched films, ratings, and reviews while integrating external movie data.
 
 #### Technologies
 
 Node.js • Express • PostgreSQL • TMDB API • Python • Flask • Docker
 
-#### Features
+#### Key Features
 
 - User authentication
 - Movie tracking and ratings
 - TMDB integration
-- AI-powered recommendations
 - Multi-language support
 - Dockerised architecture
+- REST API design
 
-🔗 Repository: https://github.com/ArshaanSindhwani/MovieApp
+**Repository:**  
+https://github.com/ArshaanSindhwani/MovieApp
 
-### Weather DataOps Pipeline
+---
+
+## Weather DataOps Pipeline
+
+### Automated Weather Data Pipeline
 
 Automated weather data pipeline demonstrating DevOps, CI/CD, and data engineering principles.
 
@@ -132,7 +138,7 @@ Automated weather data pipeline demonstrating DevOps, CI/CD, and data engineerin
 
 Node.js • Docker • GitHub Actions • Render • OpenWeather API
 
-#### Features
+#### Key Features
 
 - Automated weather data ingestion
 - CI/CD pipeline
@@ -141,30 +147,61 @@ Node.js • Docker • GitHub Actions • Render • OpenWeather API
 - Data visualisation dashboard
 - Scheduled GitHub Actions workflows
 
-🔗 Repository: https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline
+**Repository:**  
+https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline
 
-## What I'm Currently Learning
+---
 
-- AWS Cloud Services
-- Infrastructure as Code with Terraform
-- CI/CD Pipeline Design
-- Containerisation with Docker
-- Platform Engineering Concepts
-- Data Engineering Fundamentals
+# Current Focus
 
-## Professional Background
+- Cloud Engineering
+- Infrastructure as Code
+- CI/CD Automation
+- Platform Engineering
+- Data Engineering
+- Scalable System Design
 
-Before transitioning into software engineering, I worked within scientific, healthcare, IT, and consultancy environments. This background developed my analytical thinking, problem-solving abilities, stakeholder communication, leadership skills, and experience working within regulated environments involving GDPR, data integrity, quality management systems, and ISO standards.
+---
+
+# Professional Background
+
+Before transitioning into software engineering, I worked within scientific, healthcare, consultancy, and IT environments.
+
+This background developed my:
+
+- Analytical thinking
+- Problem-solving abilities
+- Stakeholder communication
+- Leadership skills
+- Experience working within regulated environments
+
+I also gained exposure to:
+
+- GDPR
+- Data Integrity
+- Quality Management Systems
+- ISO Standards
 
 These experiences continue to influence how I approach software development, cloud technologies, and data-driven problem solving.
 
-## GitHub Statistics
+---
+
+# GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshaanSindhwani&show_icons=true)
 
-## Connect With Me
+---
 
-- LinkedIn: https://www.linkedin.com/in/arshaan-sindhwani
-- GitHub: https://github.com/ArshaanSindhwani
+# Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/arshaan-sindhwani
+
+### GitHub
+
+https://github.com/ArshaanSindhwani
+
+---
 
 Thanks for visiting my profile!
