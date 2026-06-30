@@ -1,207 +1,183 @@
-# Hi, I'm Arshaan Sindhwani
+# Arshaan Sindhwani
 
-## Software Engineer | Cloud, DevOps & Data Enthusiast
+## Software Engineer | Cloud • DevOps • Backend Systems
 
-Scientist turned Software Engineer passionate about building scalable applications, cloud-based solutions, data pipelines, and automation.
-
-I trained through the La Fosse Academy Technology Training Programme, where I developed projects across software engineering, cloud infrastructure, DevOps, data pipelines, and mobile application development.
-
-I'm particularly interested in building scalable software systems and developing expertise across Cloud Engineering, DevOps, Platform Engineering, Data Engineering, and Backend Development.
+Building reliable backend systems, cloud applications, and data-driven platforms with a focus on automation, scalability, and clean architecture.
 
 ---
 
-## Core Competencies
+<p align="center">
 
-- Full-Stack Development
-- Mobile Application Development
-- REST API Design
-- Cloud Fundamentals
-- Infrastructure as Code
-- CI/CD Automation
-- Database Design
-- Data Pipelines
-- Automated Testing
-- AI Integration
+<img src="https://github-stats-fsrr72rah-arshaansindhwanis-projects.vercel.app/api?username=ArshaanSindhwani&show_icons=true&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=ArshaanSindhwani&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshaanSindhwani&layout=compact&hide_border=true" height="170"/>
+
+</p>
 
 ---
 
-# Technical Skills
+## Core Engineering Focus
 
-## Languages
+Backend Systems • Cloud Infrastructure • CI/CD Automation • Data Pipelines • Platform Engineering
 
-JavaScript • SQL • Python • R • HTML • CSS
+---
 
-## Application Development
+## System Snapshot
 
-Node.js • Express • React Native • Expo • Expo Router • REST APIs • JWT Authentication
+- Designed REST APIs with authentication, validation, and relational database integration  
+- Built applications with offline-compatible data handling and local persistence strategies  
+- Implemented CI/CD pipelines using GitHub Actions for automated build and deployment workflows  
+- Integrated external APIs into backend services for data enrichment and system connectivity  
+- Deployed containerised applications using Docker, Vercel, and Render  
 
-## Databases & Backend Services
+---
 
-PostgreSQL • Firebase Firestore • Supabase
+## Tech Stack
 
-## Cloud & DevOps
+**Backend**  
+Node.js • Express • REST APIs • PostgreSQL • Firebase • Flask
 
-AWS • Docker • Terraform • GitHub Actions • CI/CD • Render
+**Cloud & DevOps**  
+AWS • Docker • GitHub Actions • Terraform • Vercel • Render
 
-## Data & Analytics
+**Data & Analytics**  
+Python • pandas • NumPy • Power BI
 
-Power BI • Excel • Data Visualisation • pandas • NumPy
-
-## Testing & Tools
-
-Jest • Supertest • Postman • Git • GitHub • VS Code
+**Testing & Tools**  
+Jest • Supertest • Postman • Git
 
 ---
 
 # Featured Projects
 
-## AgroSense
+---
 
-### AI-Powered Mobile Agriculture Platform
+## AgroSense — Agriculture Intelligence Platform
 
-AI-powered mobile agriculture platform that combines offline-first data collection, weather intelligence, mapping, and machine-generated recommendations to support decision-making for small farms.
+🔗 https://github.com/ArshaanSindhwani/AgroSense
 
-#### Technologies
+Mobile platform for field data capture, mapping, weather insights, and AI-assisted recommendations.
 
-React Native • Expo • Firebase • Firestore • OpenStreetMap • Gemini AI • AsyncStorage
+### Key Technical Features
+- Offline-compatible local persistence using AsyncStorage  
+- Connectivity-aware sync mechanism with queued updates  
+- Firebase Authentication with Firestore cloud database  
+- OpenStreetMap-based field visualisation layer  
+- Gemini API integration for recommendation generation  
 
-#### Key Features
-
-- Offline-compatible observation recording
-- Automatic synchronisation when connectivity returns
-- AI-powered farming recommendations
-- Weather integration
-- OpenStreetMap field visualisation
-- Observation and recommendation history
-- Firebase Authentication
-
-**Repository:**  
-https://github.com/ArshaanSindhwani/AgroSense
+### Engineering Focus
+- Offline-compatible state management and persistence  
+- Cloud sync and data reconciliation patterns  
+- Mobile-first application architecture  
+- Event-driven UI updates based on connectivity state  
 
 ---
 
-## EduFun
+## EduFun — Backend Learning Platform
 
-### Educational Gaming Platform
+🔗 https://github.com/ArshaanSindhwani/EduFun
 
-Educational gaming platform designed to improve student engagement through interactive quizzes, progress tracking, and gamified learning experiences.
+REST API-based educational platform with structured learning flows and automated testing.
 
-#### Technologies
+### Key Technical Features
+- RESTful API built with Node.js and Express  
+- PostgreSQL relational schema for users, quizzes, and progress tracking  
+- JWT authentication and protected routes  
+- Unit + integration testing using Jest and Supertest  
+- Modular backend architecture (controllers/services separation)  
 
-Node.js • Express • PostgreSQL • JavaScript • Jest • Supertest
-
-#### Key Features
-
-- User authentication
-- Educational quiz challenges
-- Progress tracking
-- PostgreSQL integration
-- REST API architecture
-- Automated testing
-
-**Repository:**  
-https://github.com/ArshaanSindhwani/EduFun
+### Engineering Focus
+- Backend API design and scalability  
+- Relational data modelling  
+- Test-driven development practices  
 
 ---
 
-## MovieApp
+## MovieApp — Full-Stack Movie Tracking System
 
-### Full-Stack Movie Tracking Platform
+🔗 https://github.com/ArshaanSindhwani/MovieApp
 
-Full-stack movie tracking platform that allows users to manage watched films, ratings, and reviews while integrating external movie data.
+Multi-service application for movie tracking, ratings, and external API integration.
 
-#### Technologies
+### Key Technical Features
+- TMDB API integration for external movie data  
+- Multi-service architecture (Node.js + Flask components)  
+- Docker containerisation for consistent deployment environments  
+- User ratings and review persistence system  
+- REST API design for movie lifecycle management  
 
-Node.js • Express • PostgreSQL • TMDB API • Python • Flask • Docker
-
-#### Key Features
-
-- User authentication
-- Movie tracking and ratings
-- TMDB integration
-- Multi-language support
-- Dockerised architecture
-- REST API design
-
-**Repository:**  
-https://github.com/ArshaanSindhwani/MovieApp
+### Engineering Focus
+- External API integration patterns  
+- Containerised deployment workflows  
+- Service separation and modular design  
 
 ---
 
-## Weather DataOps Pipeline
+## Weather DataOps Pipeline — Automated Data System
 
-### Automated Weather Data Pipeline
+🔗 https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline
 
-Automated weather data pipeline demonstrating DevOps, CI/CD, and data engineering principles.
+Automated weather ingestion pipeline demonstrating CI/CD and data engineering workflows.
 
-#### Technologies
+### Key Technical Features
+- Scheduled GitHub Actions workflow for periodic data ingestion  
+- OpenWeather API integration for real-time data retrieval  
+- Node.js processing pipeline for transformation and storage  
+- Dockerised execution environment for reproducibility  
+- Render deployment triggered via CI/CD hooks  
+- Structured data output in JSON and CSV formats  
 
-Node.js • Docker • GitHub Actions • Render • OpenWeather API
-
-#### Key Features
-
-- Automated weather data ingestion
-- CI/CD pipeline
-- Docker containerisation
-- API endpoints
-- Data visualisation dashboard
-- Scheduled GitHub Actions workflows
-
-**Repository:**  
-https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline
+### Engineering Focus
+- CI/CD automation and scheduling  
+- Data pipeline design and execution flow  
+- Cloud deployment automation  
+- Reproducible containerised workflows  
 
 ---
 
-# Current Focus
+## Technical Architecture (Deep Dive)
 
-- Cloud Engineering
-- Infrastructure as Code
-- CI/CD Automation
-- Platform Engineering
-- Data Engineering
-- Scalable System Design
+<details>
+<summary><b>Click to expand system design & architecture details</b></summary>
 
----
+### AgroSense Architecture
+- Offline-compatible local persistence layer using AsyncStorage  
+- Connectivity-aware sync queue for deferred updates  
+- Firestore-based cloud persistence model  
+- Event-driven UI updates based on network state  
 
-# Professional Background
+### DataOps Pipeline Architecture
+- Scheduled GitHub Actions workflow (cron-based ingestion)  
+- Stateless Node.js processing layer for data transformation  
+- Docker containerised execution for reproducibility  
+- Dual-format persistence (JSON + CSV logging)  
+- CI/CD-based deployment via Render hooks  
 
-Before transitioning into software engineering, I worked within scientific, healthcare, consultancy, and IT environments.
+### Backend Engineering Practices
+- Layered architecture (controller → service → model separation)  
+- JWT-based authentication and route protection  
+- Input validation and structured error handling  
+- Unit and integration testing using Jest and Supertest  
 
-This background developed my:
+### DevOps Practices
+- CI/CD automation using GitHub Actions  
+- Containerised deployments using Docker  
+- Environment-based configuration management  
+- Secure secret handling via Vercel environment variables  
 
-- Analytical thinking
-- Problem-solving abilities
-- Stakeholder communication
-- Leadership skills
-- Experience working within regulated environments
-
-I also gained exposure to:
-
-- GDPR
-- Data Integrity
-- Quality Management Systems
-- ISO Standards
-
-These experiences continue to influence how I approach software development, cloud technologies, and data-driven problem solving.
-
----
-
-# GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArshaanSindhwani&show_icons=true)
+</details>
 
 ---
 
-# Connect With Me
+## Engineering Interests
 
-### LinkedIn
-
-https://www.linkedin.com/in/arshaan-sindhwani
-
-### GitHub
-
-https://github.com/ArshaanSindhwani
+Distributed Systems • Cloud Platforms • Backend Scalability • Data Pipelines • Automation Systems • Platform Engineering
 
 ---
 
-Thanks for visiting my profile!
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/arshaan-sindhwani  
+GitHub: https://github.com/ArshaanSindhwani
