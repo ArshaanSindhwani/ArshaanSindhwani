@@ -6,15 +6,34 @@ Building reliable backend systems, cloud applications, and data-driven platforms
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-stats-fsrr72rah-arshaansindhwanis-projects.vercel.app/api?username=ArshaanSindhwani&show_icons=true&hide_border=true" height="170"/>
+<table>
+  <tr>
+    <td>
+      <img height="165"
+        src="https://github-readme-stats.vercel.app/api?username=ArshaanSindhwani&show_icons=true&hide_border=true&count_private=true" />
+    </td>
 
-<img src="https://streak-stats.demolab.com?user=ArshaanSindhwani&hide_border=true" height="170"/>
+    <td>
+      <img height="165"
+        src="https://streak-stats.demolab.com?user=ArshaanSindhwani&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshaanSindhwani&layout=compact&hide_border=true" height="170"/>
+<br/>
 
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="165"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshaanSindhwani&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -37,16 +56,16 @@ Backend Systems • Cloud Infrastructure • CI/CD Automation • Data Pipelines
 ## Tech Stack
 
 **Backend**  
-Node.js • Express • REST APIs • PostgreSQL • Firebase • Flask
+Node.js • Express • REST APIs • PostgreSQL • Firebase • Flask  
 
 **Cloud & DevOps**  
-AWS • Docker • GitHub Actions • Terraform • Vercel • Render
+AWS • Docker • GitHub Actions • Terraform • Vercel • Render  
 
 **Data & Analytics**  
-Python • pandas • NumPy • Power BI
+Python • pandas • NumPy • Power BI  
 
 **Testing & Tools**  
-Jest • Supertest • Postman • Git
+Jest • Supertest • Postman • Git  
 
 ---
 
@@ -119,7 +138,7 @@ Multi-service application for movie tracking, ratings, and external API integrat
 
 🔗 https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline
 
-Automated weather ingestion pipeline demonstrating CI/CD and data engineering workflows.
+Automated weather data ingestion pipeline demonstrating CI/CD and data engineering workflows.
 
 ### Key Technical Features
 - Scheduled GitHub Actions workflow for periodic data ingestion  
@@ -137,47 +156,13 @@ Automated weather ingestion pipeline demonstrating CI/CD and data engineering wo
 
 ---
 
-## Technical Architecture (Deep Dive)
+# Engineering Interests
 
-<details>
-<summary><b>Click to expand system design & architecture details</b></summary>
-
-### AgroSense Architecture
-- Offline-compatible local persistence layer using AsyncStorage  
-- Connectivity-aware sync queue for deferred updates  
-- Firestore-based cloud persistence model  
-- Event-driven UI updates based on network state  
-
-### DataOps Pipeline Architecture
-- Scheduled GitHub Actions workflow (cron-based ingestion)  
-- Stateless Node.js processing layer for data transformation  
-- Docker containerised execution for reproducibility  
-- Dual-format persistence (JSON + CSV logging)  
-- CI/CD-based deployment via Render hooks  
-
-### Backend Engineering Practices
-- Layered architecture (controller → service → model separation)  
-- JWT-based authentication and route protection  
-- Input validation and structured error handling  
-- Unit and integration testing using Jest and Supertest  
-
-### DevOps Practices
-- CI/CD automation using GitHub Actions  
-- Containerised deployments using Docker  
-- Environment-based configuration management  
-- Secure secret handling via Vercel environment variables  
-
-</details>
+Distributed Systems • Cloud Platforms • Backend Scalability • Data Pipelines • Automation Systems • Platform Engineering  
 
 ---
 
-## Engineering Interests
-
-Distributed Systems • Cloud Platforms • Backend Scalability • Data Pipelines • Automation Systems • Platform Engineering
-
----
-
-## Connect
+# Connect
 
 LinkedIn: https://www.linkedin.com/in/arshaan-sindhwani  
 GitHub: https://github.com/ArshaanSindhwani
