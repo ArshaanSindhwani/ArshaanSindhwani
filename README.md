@@ -1,10 +1,13 @@
+
 <div align="center">
 
 # Arshaan Sindhwani
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=2E8B57&center=true&vCenter=true&width=520&lines=Software+Engineer;Cloud+%26+Platform+Engineering;Backend+Systems+%26+Infrastructure+as+Code" alt="Typing SVG" />
+**Software Engineering | Data Engineering | Cloud and Platform Engineering**
 
-Building reliable backend systems, cloud infrastructure, and data-driven platforms, with a focus on automation, scalability, and clean architecture.
+Building applications, data pipelines and cloud infrastructure.
+
+London, UK · Open to on-site, hybrid and remote opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshaan-sindhwani)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshaanSindhwani)
@@ -13,175 +16,287 @@ Building reliable backend systems, cloud infrastructure, and data-driven platfor
 
 ---
 
-> **Currently:** Open to new opportunities in cloud computing, platform engineering, software engineering, data analytics, and systems architecture.
+## About
 
----
+I build software and cloud-based systems, from REST APIs and relational databases to automated data pipelines and infrastructure provisioned with Terraform.
 
-## About Me
+Through La Fosse Academy and technical projects, I have developed practical experience with JavaScript, Node.js, Python, PostgreSQL, AWS, Azure, Docker and CI/CD. My work includes a serverless AWS image-processing pipeline, an Azure environment managed through Terraform, automated weather data collection, and backend services with automated testing.
 
-Software engineer trained through La Fosse Academy's Technology Training programme, covering software engineering, cloud infrastructure, DevOps, and data engineering. I build full-stack applications and cloud-based systems using JavaScript, Node.js, PostgreSQL, React Native, Firebase, Docker, Terraform, and AWS. Previously led high-throughput, regulated laboratory operations, which sharpened my root cause analysis and structured problem-solving, skills I now apply to debugging and infrastructure reliability.
+My earlier experience in IT infrastructure, laboratory operations and consultancy has also given me experience in troubleshooting, technical documentation, data quality and structured problem-solving.
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ArshaanSindhwani?label=Followers&style=for-the-badge&color=2E8B57" height="32"/>
-  <img src="https://img.shields.io/github/stars/ArshaanSindhwani?label=Stars&style=for-the-badge&color=2E8B57" height="32"/>
-  <img src="https://img.shields.io/badge/Actively%20Job%20Hunting-Open%20to%20Work-2E8B57?style=for-the-badge" height="32"/>
-</p>
+I am looking for early-career opportunities across software engineering, data engineering, cloud engineering and platform engineering.
 
----
-
-## Tech Stack
+## Technical Skills
 
 **Languages**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Cloud, Infrastructure &amp; DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+**Cloud, Infrastructure and Automation**
 
-**Application &amp; Backend**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+
+**Software and Data**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Data &amp; Testing**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**Testing and Development Tools**
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-333333?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Azure Terraform Platform Demo
+### 1. Azure Terraform Platform Demo
 
-🔗 **[github.com/ArshaanSindhwani/azure-terraform-project](https://github.com/ArshaanSindhwani/azure-terraform-project)**
+[View Repository](https://github.com/ArshaanSindhwani/azure-terraform-project)
 
-A small, end-to-end Azure platform environment provisioned entirely with Terraform: resource group, VNet, subnet and NSG, a private blob storage account, and an Azure Container App running under a **system-assigned managed identity** with a least-privilege `Storage Blob Data Reader` role, so the workload can access storage without a stored key.
+An Azure environment provisioned with Terraform, covering networking, storage, container hosting, identity and automated deployment.
 
-The Azure DevOps pipeline runs **Validate → Plan → Apply** as separate stages, publishing a saved Terraform plan as a pipeline artefact so Apply executes exactly what was reviewed, rather than re-planning on deployment. State is stored remotely in Azure Storage, and an equivalent GitHub Actions workflow is included as an alternative CI/CD path.
+**Engineering highlights**
 
-**Tech used:** Terraform · Microsoft Azure · Azure Container Apps · Azure DevOps · GitHub Actions · RBAC and Managed Identity · Azure Blob Storage
+- Defined Azure infrastructure as code, including a resource group, virtual network, subnet, network security group, storage account and Azure Container App.
+- Configured a system-assigned managed identity with storage-scoped `Storage Blob Data Reader` permissions.
+- Built an Azure DevOps pipeline with separate Validate, Plan and Apply stages.
+- Published a saved Terraform plan as a pipeline artefact so that Apply uses the reviewed plan.
+- Configured remote Terraform state in Azure Storage and included an alternative GitHub Actions workflow.
 
-<table>
-<tr>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/azure-terraform-project/main/docs/screenshots/azure-devops-pipeline-success.png" alt="Successful Azure DevOps pipeline run" width="260" /><br/><sub>Validate → Plan → Apply pipeline run</sub></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/azure-terraform-project/main/docs/screenshots/container-app-overview.png" alt="Container App overview" width="260" /><br/><sub>Container App overview</sub></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/azure-terraform-project/main/docs/screenshots/storage-rbac-assignment.png" alt="Storage RBAC assignment" width="260" /><br/><sub>Storage RBAC role assignment</sub></td>
-</tr>
-</table>
+**Verified result:** A recorded Azure DevOps pipeline completed all three stages in 1 minute 23 seconds.
 
-<details>
-<summary><b>Architecture and design detail</b></summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/azure-terraform-project/main/docs/screenshots/azure-devops-pipeline-success.png" alt="Successful Azure DevOps Validate, Plan and Apply pipeline" width="75%" />
+</p>
 
-- Resource group, VNet (`10.0.0.0/16`), application subnet, and NSG permitting inbound HTTPS only
-- Standard LRS storage account (TLS 1.2 minimum) with a private `app-data` blob container
-- Container Apps environment with a public Container App and a system-assigned managed identity
-- `Storage Blob Data Reader` RBAC role scoped to the storage account, no keys or connection strings in the app config
-- Three-stage Azure DevOps pipeline using a saved plan artefact to separate review from deployment
-- The VNet and NSG are foundation resources for a future VNet-integrated deployment; the Container App is not yet VNet-integrated, and the sample image does not yet read from Blob Storage. The identity and role assignment exist so a real application can add that integration later without introducing a storage secret.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/azure-terraform-project/main/docs/screenshots/container-app-overview.png" alt="Azure Container App overview" width="45%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/azure-terraform-project/main/docs/screenshots/storage-rbac-assignment.png" alt="Azure Storage role-based access control assignment" width="45%" />
+</p>
 
-</details>
+**Technologies:** Terraform, Microsoft Azure, Azure Container Apps, Azure Storage, Azure DevOps, GitHub Actions, RBAC.
 
----
+The Azure subscription has expired, so the environment is no longer deployed. The Container Apps environment is not VNet-integrated, and the sample application does not yet read from Blob Storage.
 
-### AgroSense — Agriculture Intelligence Platform
+### 2. AWS Terraform and Lambda Assessment
 
-🔗 **[github.com/ArshaanSindhwani/AgroSense](https://github.com/ArshaanSindhwani/AgroSense)**
+**Serverless processing, infrastructure as code and access control**
 
-Full-stack mobile platform for field data capture, mapping, and AI-assisted recommendations, which I architected and led within a 5-person Agile team at La Fosse Academy.
+An AWS solution that processes JPEG images uploaded to Amazon S3. An S3 object creation event invokes a Python Lambda function, which removes EXIF metadata and saves the processed image to a second bucket.
 
-- **Offline-first architecture:** local persistence via AsyncStorage with a connectivity-aware synchronisation queue, syncing deferred updates to Firebase Firestore once connectivity returns
-- **Cloud backend:** Firebase Authentication with Firestore as the centralised data store, and event-driven UI updates based on connectivity state
-- **Third-party integration:** Gemini API for contextual AI recommendations, OpenWeather for weather intelligence, and OpenStreetMap for geospatial field visualisation
+**Engineering highlights**
 
-**Tech used:** React Native · Expo · Firebase (Auth &amp; Firestore) · Gemini API · OpenStreetMap · OpenWeather API
+- Provisioned 18 AWS resources with Terraform, including two S3 buckets, a Lambda function, IAM policies and event notifications.
+- Implemented metadata removal without decoding or recompressing the image.
+- Configured separate bucket permissions for two IAM users and a dedicated Lambda execution role.
+- Added six pytest unit tests and GitHub Actions checks for testing, Terraform formatting and validation.
+- Reduced measured Lambda processing time from approximately 3.9 seconds to 2.5 to 2.6 seconds by improving the scan-data parsing loop.
 
-<div align="center">
-<table width="100%">
-<tr>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/login.jpg" alt="AgroSense login screen" width="140" /><br/><sub>Firebase Authentication login</sub></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/dashboard.jpg" alt="AgroSense dashboard" width="140" /><br/><sub>Farm and weather dashboard</sub></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/fields.jpg" alt="AgroSense fields screen" width="140" /><br/><sub>Field and crop management</sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/observations.jpg" alt="AgroSense observations screen" width="140" /><br/><sub>Field observation recording</sub></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/recommendations.jpg" alt="AgroSense AI recommendations screen" width="140" /><br/><sub>Gemini AI recommendations</sub></td>
-<td width="33%" align="center"><img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/offline-compatible.jpg" alt="AgroSense offline mode" width="140" /><br/><sub>Offline-compatible sync state</sub></td>
-</tr>
-</table>
-</div>
+**Verified result:** Tested the deployed function with a 3 MB photograph, checked that camera, GPS and original date metadata had been removed, then destroyed all 18 resources.
 
-<details>
-<summary><b>Architecture and design detail</b></summary>
+**Technologies:** AWS, S3, Lambda, IAM, Python, Terraform, pytest, GitHub Actions.
 
-- Hybrid offline-compatible model combining local persistence with cloud synchronisation
-- Queue-based synchronisation system for deferred network operations, rather than blocking on connectivity
-- Firestore as the single source of truth once synced, with local storage acting as a durable write buffer
-- Event-driven state updates tied to connectivity changes, keeping the UI responsive on unreliable networks
+### 3. Weather DataOps Pipeline
 
-</details>
+[View Repository](https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline)
 
----
+An automated pipeline that collects weather data, stores current and historical readings, and presents the results through an interactive dashboard.
 
-## Other Projects
+**Engineering highlights**
 
-| Project | Description | Stack |
-|---|---|---|
-| **[MovieApp](https://github.com/ArshaanSindhwani/MovieApp)** | Multi-service, containerised movie tracking app with TMDB API enrichment, JWT-authenticated REST APIs, and a Docker deployment pipeline. | Node.js · Flask · PostgreSQL · Docker |
-| **[EduFun](https://github.com/ArshaanSindhwani/EduFun)** | REST API-based learning platform with a relational schema for users, quizzes, and progress, plus JWT auth and Jest/Supertest test coverage. | Node.js · Express · PostgreSQL · Jest |
-| **[Weather DataOps Pipeline](https://github.com/ArshaanSindhwani/Weather-DataOps-Pipeline)** | Dockerised, scheduled ingestion pipeline pulling from the OpenWeather API, with CI/CD deployment triggers via Render. | Node.js · Docker · GitHub Actions · Render |
+- Integrated the OpenWeather API for scheduled data collection.
+- Stored current readings in JSON and appended historical readings to CSV.
+- Built an Express API and Plotly dashboard for exploring weather data.
+- Containerised the application with Docker and configured deployment to Render.
+- Automated data collection, testing, version control and deployment triggers through GitHub Actions.
 
-Each repository has its own README with full architecture detail.
+**Measured Docker improvements**
+
+| Measure | Before | After |
+|---|---:|---:|
+| Image content size | 108 MB | 82.8 MB |
+| Disk usage | 496 MB | 343 MB |
+| Build time without cache | 22.5 seconds | 7.8 seconds |
+
+These improvements came from excluding unnecessary files from the Docker build context and installing production dependencies only.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/Weather-DataOps-Pipeline/main/screenshots/dashboard-overview.png" alt="Weather DataOps dashboard overview" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/Weather-DataOps-Pipeline/main/screenshots/temperature-chart.png" alt="Historical temperature trend visualisation" width="48%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/Weather-DataOps-Pipeline/main/screenshots/api-weather-endpoint.png" alt="Current weather API response" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/Weather-DataOps-Pipeline/main/screenshots/api-weather-log.png" alt="Historical weather log API response" width="70%" />
+</p>
+
+**Technologies:** JavaScript, Node.js, Express, OpenWeather API, JSON, CSV, Plotly.js, Docker, GitHub Actions, Render.
+
+### 4. AgroSense
+
+[View Repository](https://github.com/ArshaanSindhwani/AgroSense)
+
+A mobile agriculture platform for recording field observations, mapping fields, viewing weather information and generating AI-assisted farming recommendations. Developed within a five-person Agile team at La Fosse Academy.
+
+**Engineering highlights**
+
+- Implemented local persistence using AsyncStorage and a connectivity-aware synchronisation queue.
+- Integrated Firebase Authentication and Firestore for authentication and cloud data storage.
+- Connected external weather, mapping and AI services.
+- Added fallback handling for unavailable weather and map data.
+- Contributed to debugging, dashboard behaviour, synchronisation documentation and technical presentation.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/login.jpg" alt="AgroSense login screen" width="30%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/dashboard.jpg" alt="AgroSense farm and weather dashboard" width="30%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/fields.jpg" alt="AgroSense field management screen" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/observations.jpg" alt="AgroSense field observation recording" width="30%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/recommendations.jpg" alt="AgroSense AI-assisted recommendations" width="30%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/AgroSense/main/screenshots/offline-compatible.jpg" alt="AgroSense offline-compatible functionality" width="30%" />
+</p>
+
+**Technologies:** JavaScript, React Native, Expo, Firebase, Firestore, AsyncStorage, Gemini API, Open-Meteo, OpenStreetMap.
+
+### 5. MovieApp
+
+[View Repository](https://github.com/ArshaanSindhwani/MovieApp)
+
+A collaborative movie tracking application with a JavaScript frontend, Express backend and PostgreSQL database. Users can manage watched films, record ratings and retrieve movie information from TMDB.
+
+**Engineering highlights**
+
+- Built backend functionality with Node.js and Express.
+- Implemented JWT authentication and protected routes.
+- Designed relational database tables, foreign keys and constraints.
+- Integrated TMDB for movie details, posters and ratings.
+- Developed a separate Flask recommendation endpoint using Google Gemini.
+- Configured Docker Compose for the backend and resolved reported dependency vulnerabilities.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/MovieApp/main/screenshots/login.png" alt="MovieApp login screen" width="45%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/MovieApp/main/screenshots/register.png" alt="MovieApp registration screen" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/MovieApp/main/screenshots/homepage.png" alt="MovieApp homepage" width="45%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/MovieApp/main/screenshots/my-list.png" alt="MovieApp personal film list" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/MovieApp/main/screenshots/add-movie.png" alt="MovieApp add movie screen" width="60%" />
+</p>
+
+**Technologies:** JavaScript, Node.js, Express, Python, Flask, PostgreSQL, JWT, TMDB API, Google Gemini, Docker.
+
+### 6. EduFun
+
+[View Repository](https://github.com/ArshaanSindhwani/EduFun)
+
+An educational gaming platform with a REST API, PostgreSQL database and interactive learning challenges. Students can complete quizzes and review their scores and progress.
+
+**Engineering highlights**
+
+- Developed backend functionality using Express and an MVC structure.
+- Implemented registration, login and JWT issuance.
+- Integrated PostgreSQL for users, challenges, questions, answers and results.
+- Wrote unit tests and API tests using Jest and Supertest.
+- Replaced an empty integration test stub with five working API tests and improved test coverage reporting.
+
+**Verified testing results**
+
+| Metric | Result |
+|---|---:|
+| Backend tests passing | 37 |
+| Test suites | 7 |
+| Line coverage | 87.71% |
+| API routes | 9 |
+| Database tables | 9 |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/EduFun/main/screenshots/login.png" alt="EduFun login screen" width="45%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/EduFun/main/screenshots/register.png" alt="EduFun registration screen" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/EduFun/main/screenshots/home.png" alt="EduFun learning dashboard" width="45%" />
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/EduFun/main/screenshots/game.png" alt="EduFun interactive educational challenge" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArshaanSindhwani/EduFun/main/screenshots/results.png" alt="EduFun results and progress screen" width="70%" />
+</p>
+
+**Technologies:** JavaScript, Node.js, Express, PostgreSQL, bcrypt, JWT, Jest, Supertest.
 
 ---
 
 ## Experience
 
-**Technology Trainee** · La Fosse Academy · Apr 2026 – Jun 2026
-Built full-stack applications and cloud deployment workflows (Node.js, PostgreSQL, AWS, Docker, Terraform, GitHub Actions) within a 5-person Agile team; led AgroSense's architecture and offline sync design.
+**Technology Trainee | La Fosse Academy**  
+April 2026 to June 2026
 
-**Associate Consultant** · CPL Life Sciences · Oct 2023 – Oct 2025
-Managed recruitment pipelines of 40+ candidates, built Power BI/Excel dashboards for KPI tracking, and drove a 15% increase in client acquisition.
+Completed technical training across software engineering, cloud infrastructure, DevOps and data engineering. Built applications and deployment workflows using JavaScript, Node.js, PostgreSQL, AWS, Docker, Terraform and GitHub Actions.
 
-**Senior Scientist** · Cignpost Diagnostics · Oct 2021 – Oct 2022
-Led a team of 10 processing up to 10,000 diagnostic samples daily in an ISO 15189 lab; reduced repeat deviations by 25% through CAPA-led root cause analysis.
+**Associate Consultant | CPL Life Sciences**  
+October 2023 to October 2025
 
-**Earlier experience:** Laboratory Associate Practitioner at Prenetics (2020–2021) and IT Engineer at iTech Services (2015–2018), delivering infrastructure migrations for clients including Amazon, BBC, and Microsoft. 
+Managed recruitment pipelines, maintained candidate data and built Excel and Power BI dashboards for KPI tracking. Developed experience in data quality, reporting and stakeholder communication.
 
-**Full employment details on** [LinkedIn](https://www.linkedin.com/in/arshaan-sindhwani)
+**Senior Scientist | Cignpost Diagnostics**  
+October 2021 to October 2022
 
----
+Led a team of 10 in an ISO 15189 laboratory processing up to 10,000 diagnostic samples daily. Used root cause analysis and corrective and preventive actions to reduce repeat deviations by 25%.
+
+**Earlier experience:** Laboratory Associate Practitioner at Prenetics and IT Engineer at iTech Services, including infrastructure support and migrations for enterprise clients.
+
+For further employment details, see my [LinkedIn profile](https://www.linkedin.com/in/arshaan-sindhwani).
 
 ## Education
 
-- **MSc Genomic Medicine**, University of Sheffield, 2020 — Merit, Course Representative
-- **BSc Biomedical Sciences (IBMS Accredited)**, University of Roehampton, 2019 — First Class Honours
+**MSc Genomic Medicine, Merit**  
+University of Sheffield, 2020
 
----
+**BSc Biomedical Sciences, First Class Honours**  
+University of Roehampton, 2019  
+IBMS-accredited degree.
 
-## Contact Me
+## Engineering Focus
 
-<div align="center">
+- **Application development:** REST APIs, relational databases, authentication and backend architecture.
+- **Cloud infrastructure:** Terraform, AWS, Azure, identity and access management.
+- **Automation:** GitHub Actions, Azure DevOps, scheduled pipelines and deployment workflows.
+- **Testing and troubleshooting:** Automated tests, API testing, coverage reporting and investigation of failures.
+- **Data engineering:** API ingestion, structured data storage, JSON, CSV and dashboard development.
+- **Operational discipline:** Technical documentation, data quality, root cause analysis and experience in regulated environments.
 
-**Cloud Platforms • Infrastructure as Code • Platform Engineering • Backend Scalability • Data Pipelines**
+## Contact
 
-I'm actively looking for new opportunities in cloud, platform engineering, and software engineering. Feel free to reach out.
+I am open to early-career opportunities in software engineering, backend development, data engineering, cloud engineering and platform engineering across London and beyond, including on-site, hybrid and remote positions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshaan-sindhwani)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshaanSindhwani)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arshaan-sindhwani">LinkedIn</a> ·
+  <a href="https://github.com/ArshaanSindhwani">GitHub</a>
+</p>
